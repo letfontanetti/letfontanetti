@@ -50,7 +50,8 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{letfontanetti}/count.svg" /></p> 
 <br></div>
 
-name: Generate Datas
+<div>
+  name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
@@ -75,3 +76,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  </div>
