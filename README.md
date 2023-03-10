@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=header&text=Letícia Muniz Fontanetti&fontSize=30&fontColor=ffff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=header&text=LeticiaﾠFontanetti&fontSize=30&fontColor=ffff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Letícia+Muniz+Fontanetti;I'm+16+years+old;I+from+Brazil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leticia+Muniz+Fontanetti;I'm+16+years+old;I+from+Brazil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
   
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Letícia Muniz Fontanetti&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Letícia Muniz Fontanetti github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Letícia Muniz Fontanetti&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=letfontanetti&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leticia Muniz Fontanetti github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letfontanetti&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <div  align="center"> 
@@ -20,13 +20,13 @@
    </div> 
  
   <h1 align="center">Redes Sociais</h1>
-    <a href = "https://mail.google.com/mail/u/0/#search/alexandremilim15%40gmail.com?compose=new">
+    <a href = "https://mail.google.com/mail/u/0/#search/leticia.munizfontanetti20@gmail.com?compose=new">
       <img width="30" src="https://github.com/LuigiGf/LuigiGf/raw/main/gmail.svg">
     </a>
-    <a href = "https://www.instagram.com/milim.batman/">
+    <a href = "https://www.instagram.com/letifontanetti/">
       <img width="26" src="https://github.com/LuigiGf/LuigiGf/raw/main/instagram.png">
     </a>
-    <a href = "https://www.linkedin.com/in/let%C3%ADcia-muniz-fontanetti-b59752269/">
+    <a href = "https://www.linkedin.com/in/letícia-muniz-fontanetti-b59752269/">
     <img width="26" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
 </div>
@@ -47,33 +47,5 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{letfontanetti}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Alexandre-milim}/count.svg" /></p> 
 <br></div>
-
-<div class="cobrinha">
-name: Generate Datas
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: letfontanetti
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  </div>
